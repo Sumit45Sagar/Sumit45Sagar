@@ -7,12 +7,13 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently improving **Advanced DSA in C++** & mastering **MERN Stack**
+- 🌱 Currently working as Frontend Engineer (React.js) @Accenture
+- 🌱 Improving **Advanced DSA in C++** & mastering **MERN Stack**
 - 🤝 Open to collaborating on **Web Development & Open Source Projects**
 - 👨‍💻 Explore my work: [GitHub Repositories](https://github.com/Sumit45Sagar?tab=repositories)
-- 💬 Ask me about **C++, MERN Stack, REST APIs, Databases**
+- 💬 Ask me about **React.js, Agentic AI, Workflows, Vector**
 - 📫 Email: **sagarsumit472@gmail.com**
-- ⚡ Fun fact: **I’m a huge Anime & Manga fan!**
+- ⚡ Fun fact: **I’m a huge DHH fan!**
 
 ---
 
@@ -41,28 +42,6 @@
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit45Sagar&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit45Sagar&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🔝 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit45Sagar&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumit45Sagar&theme=tokyonight&margin-w=15&margin-h=15" />
 </p>
 
 ---
